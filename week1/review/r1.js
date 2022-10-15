@@ -1,4 +1,4 @@
-// 1주차 1번 다시풀기 (JS)
+// 1주차 1번 다시풀기 (JS)- testcase 10 실패
 
 // Run by Node.js
 const readline = require('readline');
